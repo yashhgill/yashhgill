@@ -42,6 +42,7 @@ approach:  solo founder — lean ops, high margins, ship fast
 
 ### HarNova Technology — [harnova.my](https://harnova.my)
 Started as a freelance web studio for Malaysian SMEs, now a product company.
+
 - **HarNova Build** — AI-generated, hosted websites on `*.harnova.my` subdomains. Groq-powered builder, Google auth, DuitNow payments.
 - **AI Agent OS** — six specialised agents (CEO, Marketing, Sales, Support, Finance, Engineering) orchestrated by a FastAPI backend with a Supabase data hub and Claude as the intelligence layer.
 - **SAM** — voice-native personal AI assistant across the Apple ecosystem → [sam](https://github.com/yashhgill/sam)
@@ -50,7 +51,9 @@ Started as a freelance web studio for Malaysian SMEs, now a product company.
 
 ### Montage — event booking marketplace
 Multi-vendor event marketplace: vendors self-register, clients book several vendors in one cart and pay once, with staged vendor payouts.
+
 `Hono` `Cloudflare Workers` `Supabase` `Stripe` `ToyyibPay` `Solidity` `Groq`
+
 → [Montage](https://github.com/yashhgill/Montage) · [cadence-platform](https://github.com/yashhgill/cadence-platform)
 
 ---
@@ -69,6 +72,7 @@ Hybrid-cloud EHR for Malaysian clinics.
 - Hybrid sync between local PostgreSQL and cloud
 
 `PostgreSQL` `Hybrid Cloud` `AI`
+
 → [Medilink](https://github.com/yashhgill/Medilink)
 
 </td>
@@ -90,9 +94,11 @@ AI-powered personal finance tracker & planner.
 
 ### 🧭 PathForward
 *"Your transcript already says what you can do. We'll show you the path forward."*
+
 AI app that turns academic transcripts into competencies and career paths. Huawei ICT Competition entry.
 
 `Cloudflare D1` `Groq` `Huawei Cloud ECS`
+
 → [airesume-huawei-ict](https://github.com/yashhgill/airesume-huawei-ict)
 
 </td>
@@ -112,6 +118,7 @@ End-to-end serverless booking for [montageevents.my](https://montageevents.my): 
 IoT smart greenhouse with AI-driven plant monitoring. Won 1st place at Program SULAM, FTMK.
 
 `IoT` `AI`
+
 → [plant-monitor-api](https://github.com/yashhgill/plant-monitor-api) · [plant-monitor-dashboard](https://github.com/yashhgill/plant-monitor-dashboard)
 
 </td>
@@ -121,6 +128,7 @@ IoT smart greenhouse with AI-driven plant monitoring. Won 1st place at Program S
 Final-year (PSM) odour monitoring platform, migrated fully onto a Cloudflare-only stack.
 
 `Workers` `Durable Objects` `D1` `R2` `Pages`
+
 → [smart-odour](https://github.com/yashhgill/smart-odour)
 
 </td>
@@ -132,6 +140,7 @@ Final-year (PSM) odour monitoring platform, migrated fully onto a Cloudflare-onl
 Production e-commerce platform — mobile-optimised, popularity ranking, age verification gate, PWA with service worker.
 
 `E-commerce` `PWA`
+
 → [Master-Liqours](https://github.com/yashhgill/Master-Liqours)
 
 </td>
@@ -141,6 +150,7 @@ Production e-commerce platform — mobile-optimised, popularity ranking, age ver
 Health & safety AI with fall/accident detection, health tracking and clinic booking via MediLink — fronted by **Nova**, an animated heart-doctor mascot.
 
 `AI` `Health` `Rive`
+
 → [pulse-ai](https://github.com/yashhgill/pulse-ai)
 
 </td>
